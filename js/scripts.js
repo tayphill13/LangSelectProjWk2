@@ -1,6 +1,5 @@
 $(document).ready(function() {
   $("#formOne").submit(function(event) {
-    $("#output").fadeToggle(result);
     event.preventDefault();
 
   var result1 = $("input[name=questionOne]:checked").val();
@@ -17,10 +16,10 @@ $(document).ready(function() {
   var result;
 
 
-  if (result1 != result2 && result3 === result4) {
+ if (result1 != result2 && result3 === result4) {
       result = "Try out the cool stylings of HTML with CSS and express yourself!"
   }
-    else if (result3 === result4 && result2 === result3) {
+    else if (result1 != result2 && result3 != result4) {
       result = "Some refer to it as a Cruel Mistress, but it could be love at first sight with JavaScript! and don't forget to try out Jquery!"
   }
     else if (result1 === result2) {
@@ -28,7 +27,7 @@ $(document).ready(function() {
   }
     else if (result3 === result5 && result5 === result6) {
       result = "Why don't you give the general-purpose programming language, Ruby a try!  It was developed by Yukihiro Matsumoto in the mid-90s"
-    }
+  }
   $("#output").text(result);
 
   });
