@@ -15,18 +15,17 @@ $(document).ready(function() {
   var result6 = $("input[name=questionSix]:checked").val();
   var result;
 
-  // var result6 
 
-  if (result1 === result2 && result2 === result5) {
+  if (result1 != result2 && result3 === result4) {
       result = "Try out the cool stylings of HTML with CSS and express yourself!"
   }
-    else if (result3 === result4) {
+    else if (result3 === result4 && result2 === result3) {
       result = "You might consider the Cruel Mistress that is JavaScript, and don't forget to try out Jquery!"
   }
-    else if (result4 === result5) {
+    else if (result1 === result2) {
       result = "You seem chill, you could probably choose whichever language you like.  Did you know Swift is a compiled programming language developed by Apple?"
   }
-    else if (result3 === result5) {
+    else if (result3 === result5 && result5 === result6) {
       result = "Why don't you give the general-purpose programming language, Ruby a try!  It was developed by Yukihiro Matsumoto in the mid-90s"
     }
   $("#output").text(result);
