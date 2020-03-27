@@ -4,7 +4,3 @@ body {
 .jumbotron {
   background-color: rgb(253, 196, 90);
 }
-#result {
-  font-weight: bold;
-  font-size: 20px;
-}
