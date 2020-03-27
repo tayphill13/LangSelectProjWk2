@@ -11,13 +11,17 @@ _This program will allow user to answer questions and receive back a suggestion 
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Install Git Bash
+* _Using a Terminal on desktop, user will need to type git init_
+* _go to this repository and clone then Open in Desktop_
+* _Will likely need Git for Desktop_
+* _Clone file to desktop_
+* _run index.html with web browser_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* _Other option is to go to Repository on git hub and download zip_
+* _Retrieve zip file in downloads on computer and double click to unpack_
+* _run index.html with web browser_
+
 
 ## Known Bugs
 
