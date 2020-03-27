@@ -6,11 +6,13 @@ $(document).ready(function() {
 
   var result2 = $("input[name=questionTwo]:checked").val();
 
-  var result3
+  var result3 = $("input[name=questionThree]:checked").val();
 
-  var result4
+  var result4 
 
   var result5
+
+  var result6
 
   if (result)
 
