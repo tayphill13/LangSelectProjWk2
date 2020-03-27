@@ -1,12 +1,13 @@
-# _{Application Name}_
+## _Programming Language Selection Simulator_ 
 
-#### _{Brief description of application}, {Date of current version}_
 
-#### By _**{List of contributors}**_
+#### _This is a webpage designed to recieve user input and return a value based on the input given, 3.27.20_
+
+#### By _**Created by Taylor Phillips at Epicodus**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This program will allow user to answer questions and receive back a suggestion of a coding language they might show an affinity for.disclaimer: The suggestions given are not on the basis of science or logic, this is not backed by the tech community, user will take on new programming language at their own risk.  The creater of this program will not be held responsible for any struggles, second thoughts, or regrets that user may experience._
 
 ## Setup/Installation Requirements
 
