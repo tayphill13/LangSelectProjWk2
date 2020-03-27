@@ -11,10 +11,18 @@ $(document).ready(function() {
   var result4 = $("input[name=questionFour]:checked").val();
 
   var result5 = $("input[name=questionFive]:checked").val();
+  
+  var result6 = $("input[name=questionSix]:checked").val();
+  var result;
 
-  var result6 
+  // var result6 
 
-  if (result)
-
+  if (result1 === result2 || result3) {
+    result = "Introverts might like to express themselves with the cool stylings of HTML with CSS!"
+  }
+    else if (result2 === result3) {
+      result = "You might consider the Cruel Mistress that is JavaScript, and don't forget to use try out Jquery!"
+  }
+  $("#output").text(result);
   });
 });
