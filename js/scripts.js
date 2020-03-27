@@ -10,9 +10,9 @@ $(document).ready(function() {
 
   var result4 = $("input[name=questionFour]:checked").val();
 
-  var result5
+  var result5 = $("input[name=questionFive]:checked").val();
 
-  var result6
+  var result6 
 
   if (result)
 
