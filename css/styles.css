@@ -7,6 +7,12 @@ body {
   background-color: rgb(253, 196, 90);
   margin-right: 10vw;
 }
+img {
+  border-radius: 20px;
+}
+span {
+  /* Enter cool effect for word golf */
+}
 #output {
   font-family: 'Courier New', Courier, monospace;
   font-size: .75cm;
