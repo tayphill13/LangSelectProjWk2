@@ -1,4 +1,5 @@
 $(document).ready(function() {
+  $("#formOne").submit(function(event) {
   event.preventDefault();
 
   var result1
@@ -11,4 +12,5 @@ $(document).ready(function() {
 
   var result5
 
+  });
 });
