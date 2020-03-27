@@ -21,7 +21,7 @@ $(document).ready(function() {
       result = "Try out the cool stylings of HTML with CSS and express yourself!"
   }
     else if (result3 === result4 && result2 === result3) {
-      result = "You might consider the Cruel Mistress that is JavaScript, and don't forget to try out Jquery!"
+      result = "Some refer to it as a Cruel Mistress, but it could be love at first sight with JavaScript! and don't forget to try out Jquery!"
   }
     else if (result1 === result2) {
       result = "You seem chill, you could probably choose whichever language you like.  Did you know Swift is a compiled programming language developed by Apple?"
