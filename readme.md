@@ -3,7 +3,7 @@
 
 #### _This is a webpage designed to recieve user input and return a value based on the input given, 3.27.20_
 
-#### By _**Created by Taylor Phillips at Epicodus**_
+#### By _**Taylor Phillips at Epicodus**_
 
 ## Description
 
