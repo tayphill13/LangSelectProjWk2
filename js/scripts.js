@@ -8,7 +8,7 @@ $(document).ready(function() {
 
   var result3 = $("input[name=questionThree]:checked").val();
 
-  var result4 
+  var result4 = $("input[name=questionFour]:checked").val();
 
   var result5
 
