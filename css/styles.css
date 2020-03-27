@@ -10,8 +10,8 @@ body {
 #formOne {
   color: purple;
 }
-#personality {
-  color:  
+.form-group {
+  color:  rgb(98, 163, 0);
 }
 h2 {
   color: rgb(28, 121, 121);
@@ -20,13 +20,13 @@ img {
   border-radius: 20px;
 }
 span {
-  color: #fff;
+  color: rgb(98, 163, 0);
   font-size: 20px;
   font-weight: bold;
   font-family: Helvetica;
   text-shadow: 
     0 1px 0 rgb(253, 196, 90), 
-    0 2px 0 #c9c9c9, 
+    0 2px 0 grey, 
     0 3px 0 #bbb, 
     0 4px 0 rgb(253, 196, 90),
     0 5px 0 #aaa, 
