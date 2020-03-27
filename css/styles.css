@@ -1,6 +1,9 @@
 body {
   background-color: lightcyan;
+  padding-left: 10vw;
+  padding-bottom: 10vw;
 }
 .jumbotron {
   background-color: rgb(253, 196, 90);
 }
+

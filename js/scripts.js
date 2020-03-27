@@ -1,5 +1,6 @@
 $(document).ready(function() {
   $("#formOne").submit(function(event) {
+    $("#output").fadeToggle(result);
   event.preventDefault();
 
   var result1 = $("input[name=questionOne]:checked").val();
