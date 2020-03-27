@@ -30,6 +30,7 @@ _This program is currently functional with no known bugs.  Please use contact in
 ## Support and contact details
 
 _contact: Taylor at taylorphillips133@gmail.com for questions, comments, troubleshooting_
+_This project can be found online at https://tayphill13.github.io/LangSelectProjWk2/_
 
 ## Technologies Used
 
